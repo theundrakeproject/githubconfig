@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @undrake-studies
-- 👀 I’m interested in web dev, data sci
-- 🌱 I’m currently learning js, react, python, sql
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me kahryuwright@gmail.com
+- 👋 Hi, I’m @theundrakeproject
+- 👀 my passion is astrophysics and astronomy
+- 🌱 python, sql, wolfram, js/css/html - react
+- 💞️ ^trying to combine the all of the above
+- enjoying the journey, challenge, and process of doing so 
+- undrakeproject@outlook.com or kahryuwright@gmail.com
 
 <!---
 undrake-studies/undrake-studies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
